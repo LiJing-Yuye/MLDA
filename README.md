@@ -161,6 +161,7 @@ After running the above command, you will obtain three output folders of this pa
 #Authors
 
 Xuejun Liu (xuejun.liu@nuaa.edu.cn).College of Computer Science and Technology, Nanjing University of Aeronautics and Astronautics, 29Jiangjun Rd., Jiangning District, 211106Nanjing China.
+
 The MLDA algorithm is developed by Xuejun Liu and Jing Li. The MLDA software is mainly implemented by Jing Li.
 
 #Related software
