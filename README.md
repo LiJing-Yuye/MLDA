@@ -164,4 +164,5 @@ Xuejun Liu (xuejun.liu@nuaa.edu.cn).College of Computer Science and Technology, 
 #Related software
 
 Bowtie2: for alignment of RNA-Seq reads to transcriptome (optionally with the precomputed set of splice junctions).
-
+Authors
+The MLDA algorithm is developed by Xuejun Liu and Jing Li. The MLDA software is mainly implemented by Jing Li.
